@@ -1,6 +1,7 @@
 # Jarvis
 
 Link Dataset utilizado: https://drive.google.com/drive/folders/143rVm7F9e4A5YyuBQvibsT_0pCPhzEfq?usp=drive_link
+Referência: https://bdmep.inmet.gov.br
 
 Este projeto visa desenvolver um aplicativo mobile para disseminar informações e notícias sobre problemas que afetam os ambientes marinhos. O foco principal é conscientizar e informar os usuários sobre questões como poluição marinha, derretimento de geleiras e outras problemáticas ambientais que impactam a vida cotidiana. A conscientização pública é essencial para a preservação do meio ambiente, e o aplicativo surge como uma ferramenta educativa e informativa.
 
